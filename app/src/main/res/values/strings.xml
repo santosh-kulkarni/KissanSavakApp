@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Kissan Sevak</string>
+    <string name="password">password</string>
+    <string name="loginEmail">Email Id</string>
+    <string name="loginAsFarmer">Login As Farmer</string>
+    <string name="loginAsRetailer">Login As Retailer</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="emailID">Email ID</string>
+    <string name="signUpPassword">Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="mobileNumber">Mobile Number</string>
+    <string name="signUp">Sign Up</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="sendVerificationCode">send verification code</string>
+    <string name="enterOTP">Enter OTP</string>
+    <string name="verifyCode">verify code</string>
+    <string name="address">Enter your farm address</string>
+    <string name="letsVerify"><b>Lets verify your number!!</b></string>
+    <string name="title_activity_farmer_sale">FarmerSaleActivity</string>
+    <string-array name="category">
+        <item>Select one category</item>
+        <item>Vegetables</item>
+        <item>Fruits</item>
+        <item>Flower</item>
+    </string-array>
+    <string-array name="units_list">
+        <item>Units</item>
+        <item>KG</item>
+        <item>UNITS</item>
+    </string-array>
+    <string-array name="price_list">
+        <item>...</item>
+        <item>₹</item>
+        <item>$</item>
+    </string-array>
+</resources>
